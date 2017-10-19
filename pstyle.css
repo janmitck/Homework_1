@@ -1,0 +1,40 @@
+body {
+	max-width: 500px;
+}
+#wrapper {
+	width: 500px;
+	padding: 100px;
+	margin: 0 auto;
+	
+}
+#relative {
+	position: relative;
+	background-color: #eee;
+	padding: 50px;
+	height:20px;
+
+}
+
+#absolute {
+	position: absolute;
+	background-color: lightgray;
+	padding: 10px;
+	float: right;
+
+}
+
+#fixed {
+	position: fixed;
+	background-color: #eee;
+	height: 100px;
+	top: 0;
+	left: 0;
+	width: 150px;
+}
+
+h1 {
+	margin-bottom:  20px;
+	font-size: 36px;
+	line-height: 45px;
+
+}

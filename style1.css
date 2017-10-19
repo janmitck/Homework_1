@@ -1,0 +1,16 @@
+#wrapper {
+	max-width: 900px;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+#header {
+	background-color: lightblue;
+}
+
+#about {
+	text-align: center;
+}
